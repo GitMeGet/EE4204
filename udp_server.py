@@ -2,8 +2,16 @@ import hashlib
 import socket
 import sys
 import time
-from udp_const import UDP_IP_ADDRESS, UDP_PORT_NO, DATA_UNIT_SIZE_IN_BYTES, ACK_MSG, STOP_AND_WAIT_ENABLED, MSG_SHA_SIG, EOF_char
+from udp_const import ACK_MSG, STOP_AND_WAIT_ENABLED, MSG_SHA_SIG, EOF_char
 
+if len(sys.argv) != 4:
+    print("usage: python3 %s <ip_addr> <port> <data_unit_size_in_bytes>" % sys.argv[0])
+    sys.exit()
+
+UDP_IP_ADDRESS = sys.argv[1]
+UDP_PORT_NO = int(sys.argv[2])
+DATA_UNIT_SIZE_IN_BYTES = int(sys.argv[3])
+    
 serverSock  = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 serverSock.bind((UDP_IP_ADDRESS, UDP_PORT_NO))
 ackSock  = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)

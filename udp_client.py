@@ -4,7 +4,15 @@ import sys
 import logging
 logging.basicConfig(level=logging.INFO)
 
-from udp_const import UDP_IP_ADDRESS, UDP_PORT_NO, DATA_UNIT_SIZE_IN_BYTES, ACK_MSG, STOP_AND_WAIT_ENABLED, MSG
+from udp_const import ACK_MSG, STOP_AND_WAIT_ENABLED, MSG
+
+if len(sys.argv) != 4:
+    print("usage: python3 %s <ip_addr> <port> <data_unit_size_in_bytes>" % sys.argv[0])
+    sys.exit()
+
+UDP_IP_ADDRESS = sys.argv[1]
+UDP_PORT_NO = int(sys.argv[2])
+DATA_UNIT_SIZE_IN_BYTES = int(sys.argv[3])
 
 # socket.AF_INET represent the address (and protocol) families
 # socket.SOCK_DGRAM represent the socket types
