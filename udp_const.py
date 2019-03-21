@@ -1,6 +1,7 @@
 import hashlib
 
-ACK_MSG = bytes.fromhex('dead')
+#ACK_MSG = bytes.fromhex('dead') # py3.7
+ACK_MSG = 'dead'.decode('hex') # py2.7
 EOF_char = b'\xFF'
 
 #UDP_IP_ADDRESS = "127.0.0.1"
