@@ -198,3 +198,203 @@ end_time: 1554882347.188637
 total_time_in_secs: 0.009773 
 throughput_in_bits_per_sec: 49115646.713474 
 
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 60001 
+stop_and_wait_enabled: True 
+start_time: 1554883552.916266 
+end_time: 1554883552.926162 
+total_time_in_secs: 0.009896 
+throughput_in_bits_per_sec: 48505058.771581 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 60001 
+stop_and_wait_enabled: True 
+start_time: 1554883554.656490 
+end_time: 1554883554.665514 
+total_time_in_secs: 0.009024 
+throughput_in_bits_per_sec: 53192937.050701 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 60001 
+stop_and_wait_enabled: True 
+start_time: 1554883555.947853 
+end_time: 1554883555.958571 
+total_time_in_secs: 0.010718 
+throughput_in_bits_per_sec: 44785769.329359 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 60001 
+stop_and_wait_enabled: True 
+start_time: 1554883557.008573 
+end_time: 1554883557.017575 
+total_time_in_secs: 0.009002 
+throughput_in_bits_per_sec: 53322548.783855 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 60001 
+stop_and_wait_enabled: True 
+start_time: 1554883558.088717 
+end_time: 1554883558.097507 
+total_time_in_secs: 0.008790 
+throughput_in_bits_per_sec: 54608318.173809 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10000 
+stop_and_wait_enabled: True 
+start_time: 1554883572.006736 
+end_time: 1554883572.059081 
+total_time_in_secs: 0.052345 
+throughput_in_bits_per_sec: 9170076.539993 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10000 
+stop_and_wait_enabled: True 
+start_time: 1554883574.339099 
+end_time: 1554883574.371078 
+total_time_in_secs: 0.031979 
+throughput_in_bits_per_sec: 15010060.944099 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10000 
+stop_and_wait_enabled: True 
+start_time: 1554883575.365439 
+end_time: 1554883575.396003 
+total_time_in_secs: 0.030564 
+throughput_in_bits_per_sec: 15704976.593721 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10000 
+stop_and_wait_enabled: True 
+start_time: 1554883576.307492 
+end_time: 1554883576.338006 
+total_time_in_secs: 0.030514 
+throughput_in_bits_per_sec: 15730745.590749 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10000 
+stop_and_wait_enabled: True 
+start_time: 1554883577.386892 
+end_time: 1554883577.417061 
+total_time_in_secs: 0.030169 
+throughput_in_bits_per_sec: 15910631.386872 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 1000 
+stop_and_wait_enabled: True 
+start_time: 1554883591.300015 
+end_time: 1554883591.371026 
+total_time_in_secs: 0.071011 
+throughput_in_bits_per_sec: 6759622.465710 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 1000 
+stop_and_wait_enabled: True 
+start_time: 1554883592.605328 
+end_time: 1554883592.677161 
+total_time_in_secs: 0.071833 
+throughput_in_bits_per_sec: 6682286.689630 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 1000 
+stop_and_wait_enabled: True 
+start_time: 1554883593.605699 
+end_time: 1554883593.676247 
+total_time_in_secs: 0.070548 
+throughput_in_bits_per_sec: 6804009.051845 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 1000 
+stop_and_wait_enabled: True 
+start_time: 1554883594.565464 
+end_time: 1554883594.637030 
+total_time_in_secs: 0.071566 
+throughput_in_bits_per_sec: 6707219.847593 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 1000 
+stop_and_wait_enabled: True 
+start_time: 1554883595.528684 
+end_time: 1554883595.599612 
+total_time_in_secs: 0.070928 
+throughput_in_bits_per_sec: 6767529.679362 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 100 
+stop_and_wait_enabled: True 
+start_time: 1554883607.899578 
+end_time: 1554883608.430684 
+total_time_in_secs: 0.531106 
+throughput_in_bits_per_sec: 903789.458899 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 100 
+stop_and_wait_enabled: True 
+start_time: 1554883609.497750 
+end_time: 1554883610.032431 
+total_time_in_secs: 0.534681 
+throughput_in_bits_per_sec: 897746.769811 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 100 
+stop_and_wait_enabled: True 
+start_time: 1554883610.755868 
+end_time: 1554883611.285439 
+total_time_in_secs: 0.529571 
+throughput_in_bits_per_sec: 906409.053572 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 100 
+stop_and_wait_enabled: True 
+start_time: 1554883611.915771 
+end_time: 1554883612.439213 
+total_time_in_secs: 0.523442 
+throughput_in_bits_per_sec: 917022.272826 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 100 
+stop_and_wait_enabled: True 
+start_time: 1554883613.015239 
+end_time: 1554883613.555728 
+total_time_in_secs: 0.540489 
+throughput_in_bits_per_sec: 888099.548708 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10 
+stop_and_wait_enabled: True 
+start_time: 1554883663.176524 
+end_time: 1554883668.373950 
+total_time_in_secs: 5.197426 
+throughput_in_bits_per_sec: 92354.945034 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10 
+stop_and_wait_enabled: True 
+start_time: 1554883669.849717 
+end_time: 1554883675.075327 
+total_time_in_secs: 5.225610 
+throughput_in_bits_per_sec: 91856.835540 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10 
+stop_and_wait_enabled: True 
+start_time: 1554883676.135297 
+end_time: 1554883681.309291 
+total_time_in_secs: 5.173994 
+throughput_in_bits_per_sec: 92773.206956 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10 
+stop_and_wait_enabled: True 
+start_time: 1554883682.916768 
+end_time: 1554883688.117447 
+total_time_in_secs: 5.200679 
+throughput_in_bits_per_sec: 92297.181987 
+
+msg_len_in_bytes: 60001 
+data_unit_size_in_bytes: 10 
+stop_and_wait_enabled: True 
+start_time: 1554883689.227963 
+end_time: 1554883694.436180 
+total_time_in_secs: 5.208217 
+throughput_in_bits_per_sec: 92163.592018 
+
